@@ -50,7 +50,7 @@ function RegistrationPage() {
 
   // Password Validation Function
   const validatePassword = (password) => {
-    const regex = /^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*#?&])[A-Za-z\d@$!%*#?&]{6,}$/;
+    const regex = /^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*#?&_])[A-Za-z\d@$!%*#?&_]{6,}$/;
     return regex.test(password);
   };
 

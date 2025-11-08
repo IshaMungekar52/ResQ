@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 90
+    },
+    "auditLog": "C:\\Users\\Lenovo\\Documents\\healthcare\\logs\\.3c8ed08d496fbe879f7e8faba71920a98861fb5a-audit.json",
+    "files": [
+        {
+            "date": 1762588855948,
+            "name": "C:\\Users\\Lenovo\\Documents\\healthcare\\logs\\error-2025-11-08.log",
+            "hash": "8e66cea4c1135af75b8eac8b151196a4207d586e7bc18789a7fc308f43a88cb5"
+        }
+    ],
+    "hashType": "sha256"
+}
