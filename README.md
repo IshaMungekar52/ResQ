@@ -166,9 +166,9 @@ This project is licensed under the MIT License.
 ## 📞 Support
 
 For technical support or questions about the application:
-- Email: support@safepath.com
-- Phone: +1 (555) 123-4567
+- Email: support@resqnow.com
+- Phone: +91 9876543210
 
 ---
 
-**SafePath** - Your trusted emergency response system. We're here for you 24/7.
+**ResQNow** - Your trusted emergency response system. We're here for you 24/7.
